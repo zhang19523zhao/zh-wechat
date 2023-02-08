@@ -1,4 +1,5 @@
 {
   "api_key": "你的apikey",
+  "auto_pass": true,
   "key_word": "ai"
 }
