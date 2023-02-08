@@ -7,12 +7,12 @@
  + 自动通过回复
  
 # 注册openai
-chatGPT注册可以参考[这里](https://juejin.cn/post/7173447848292253704)
+chatGPT注册可以参考[这里](http://www.zhanghaobk.com/archives/chatgpt%E6%B3%A8%E5%86%8C%E5%AF%B9%E6%8E%A5%E5%BE%AE%E4%BF%A1)
 
 # 安装使用
 ````
 # 获取项目
-git clone https://github.com/869413421/wechatbot.git
+git clone https://github.com/zhang19523zhao/zh-wechat.git
 
 # 进入项目目录
 cd wechatbot
